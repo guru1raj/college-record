@@ -1,1 +1,1 @@
-# college-record
+# college-records
